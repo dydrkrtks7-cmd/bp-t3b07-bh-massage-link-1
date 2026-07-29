@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeouido-karaoke-bar-note.best-seocho-karaoke.xyz/sitemap.xml
